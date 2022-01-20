@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+    /* Common Taq */
+.p-font{
+    font-family: 'Bebas Neue', cursive;
+}
+.s-font{
+    font-family: 'Roboto', sans-serif;
+}
+    /* Common olor */
+.p-color{
+    color: #FABE4C;
+}
+.s-color{
+    color: #363958;
+}
+.p-bg-color{
+    background-color: #FFFBF0;
+}
+header{
+    width: 1440px;
+}
